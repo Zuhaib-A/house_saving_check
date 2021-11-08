@@ -1,4 +1,4 @@
-#Script which uses MYSQL and BeautifulSoup to store, scrape and eventually view plans for saving up for homes.
+#Script which uses MySQL and BeautifulSoup to store, scrape and eventually view plans for saving up for homes.
 #The average house price for the user specified postcode has been taken from RightMove. 
 import csv
 from bs4 import BeautifulSoup
